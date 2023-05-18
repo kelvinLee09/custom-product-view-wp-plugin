@@ -1,0 +1,15 @@
+li.woocommerce-widget-layered-nav-list__item {
+  display: flex;
+  align-items: center;
+}
+
+li.woocommerce-widget-layered-nav-list__item input.wc-custom--filter {
+  width: 15px;
+  height: 15px;
+  margin-right: 6px;
+}
+
+li.woocommerce-widget-layered-nav-list__item label.wc-custom--filter-label {
+  margin-bottom: 0;
+  margin-right: 3px;
+}
